@@ -2,3 +2,4 @@ dm:hello
 rh:world
 dm:foo - bar
 rh:bar
+rh:bar2
