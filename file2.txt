@@ -1,5 +1,5 @@
 dm:hello
 rh:world
-dm:foo - bar
+dm:foo - bar - richard append too
 rh:bar
 rh:bar2
