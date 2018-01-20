@@ -1,3 +1,4 @@
 dm:hello
 rh:world
 dm:foo
+rh:bar
